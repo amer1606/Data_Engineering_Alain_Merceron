@@ -1,7 +1,7 @@
 # COVID MONITORING
  
 ## OBJECTIVE 
-Our objective consists in creating synthetic views on Covid in EU countries with 3 main indicators “cases”, “hospital occupancy” and “deaths” and deepen the analysis with 2 behavioral indicators: covid vaccination and travelling (flying passengers).
+Our objective consists in creating synthetic views on Covid in EU countries with 4 indicators “cases”, “hospital occupancy”, "ICU" (intensive care) and “deaths” to further deepen the analysis with 2 behavioral indicators: covid vaccination and travelling (flying passengers).
 
 ## STEPS
 ### OPERATIONAL LAYER: 
