@@ -10,7 +10,7 @@ From EUROSTAT and ECDC, we import 4 datasets, one of which, Vaccination, is extr
 
 ### ANALYTICAL LAYER: 
 Our Analytical Layer features 5 datasets:
- - 4 covid datasets with weekly data for 30 countries (EU + Norway, Iceland and Liechtenstein).
+ - 4 covid datasets with weekly data for 30 countries (EU + Norway, Iceland and Liechtenstein): numbers of cases, hospital occupancy, ICU (intensive care) and number of deaths.
  - 1 dataset with montly flying passenger data for 34 countries (EU + Norway, Iceland, Bosnia, Macedonia, Montenegro, Serbia, Switzerland, UK).
 
 ## DATA SOURCES
