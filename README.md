@@ -37,7 +37,9 @@ https://opendata.ecdc.europa.eu/covid19/vaccine_tracker/csv/data.csv
  - Data dictionary on Covid Vaccination:
 https://www.ecdc.europa.eu/sites/default/files/documents/Variable_Dictionary_VaccineTracker-5-april-2023.pdf
 
-DATASET VIEW
+## DATASET VIEW
+
+Attached is a synthetic mapping of all datasets, their use and their field structure.
 [Datasets.docx](https://github.com/amer1606/Data_Engineering_Alain_Merceron/files/13328402/Datasets.docx)
 
 
