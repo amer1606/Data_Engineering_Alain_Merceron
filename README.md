@@ -15,7 +15,7 @@ Our Analytical Layer features 5 datasets:
 
 ## DATA SOURCES
 ### From EUROSTAT:
- - Air passenger transport by main airports in each reporting country:                        
+ - Air passenger transport by main airports in each reporting country:                       
 https://ec.europa.eu/eurostat/databrowser/bookmark/15424aa3-01d4-4b6f-98f2-c3c213a85a3b?lang=en 
  - Explanatory text
 https://ec.europa.eu/eurostat/cache/metadata/en/avia_pa_esms.htm
