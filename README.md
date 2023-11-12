@@ -29,11 +29,15 @@ https://www.ecdc.europa.eu/sites/default/files/documents/2022-06-23_Variable_Dic
 
 Hospital Covid admission data (“occup”):
 https://opendata.ecdc.europa.eu/covid19/hospitalicuadmissionrates/csv/data.csv 
- - Data dictionary on Hospital admission
+ - Data dictionary on Hospital admission:
 https://www.ecdc.europa.eu/sites/default/files/documents/2021-01-13_Variable_Dictionary_and_Disclaimer_hosp_icu_all_data.pdf 
 
 Covid 19 Vaccination (broken down in “vaccin_yy”, yy for each year 20 to 23):
 https://opendata.ecdc.europa.eu/covid19/vaccine_tracker/csv/data.csv 
  - Data dictionary on Covid Vaccination:
-https://www.ecdc.europa.eu/sites/default/files/documents/Variable_Dictionary_VaccineTracker-5-april-2023.pdf 
+https://www.ecdc.europa.eu/sites/default/files/documents/Variable_Dictionary_VaccineTracker-5-april-2023.pdf
+
+DATASET VIEW
+[Datasets.docx](https://github.com/amer1606/Data_Engineering_Alain_Merceron/files/13328402/Datasets.docx)
+
 
