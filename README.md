@@ -5,7 +5,7 @@ Our objective consists in creating synthetic views on Covid in EU countries with
 
 ## STEPS
 ### OPERATIONAL LAYER: 
-From EUROSTAT and ECDC, we import 4 datasets, one of which, Vaccination, is extremely heavy (49Mo). To get to a lighter dataset, we manually created a synthetic vaccination dataset with number of first and second doses on a weekly bases (originally daily data split by age group).
+From EUROSTAT and ECDC, we import 4 datasets, one of which, Vaccination, is extremely heavy (49Mo). To get to a lighter dataset, we manually created a synthetic vaccination dataset with number of first and second doses on a weekly bases (originally daily data split by age group). Data quality is good although some countries are missing data.
 
 
 ### ANALYTICAL LAYER: 
@@ -42,4 +42,10 @@ https://www.ecdc.europa.eu/sites/default/files/documents/Variable_Dictionary_Vac
 Attached is a synthetic mapping of all datasets, their use and their field structure.
 [Datasets.docx](https://github.com/amer1606/Data_Engineering_Alain_Merceron/files/13328402/Datasets.docx)
 
+## SQL QUERIES
+
+Queries are grouped under 3 categories:
+ - ETL
+ - Data Mart
+ - Stored Procedures
 
